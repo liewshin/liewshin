@@ -14,12 +14,6 @@
 I enjoy trying out and learning new things - coding, sports, travelling \
 Currently working as a frontend engineer with a focus on React and React Native 
 
-## 👩🏻‍💻 Past Projects
-
-### [Telegram Horoscope Bot]([https://github.com/robertjcolley/start-task-with-toggl-obsidian-plugin](https://t.me/ks_horoscope_bot))
-
-A fun little side project because my friends love the horoscope
-
 <!--
 **liewshin/liewshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
