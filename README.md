@@ -12,7 +12,7 @@
 ## 😄 About me
 
 I enjoy trying out and learning new things - coding, sports, travelling \
-Currently working as a frontend engineer with a focus on React and React Native 
+Currently working as a software engineer with a focus on React and React Native 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNngwbmdxNjc3NTI3aGQ1Y2MyNzR2dmtpcnpwYTN4Z2psdWo2bmE0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y93slPbDMdeXJQONHa/giphy.gif" width="300" height="300">
 
