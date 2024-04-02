@@ -1,16 +1,5 @@
 # 👋 Hi, I’m @liewshin
 
-## 📫 How to reach me...
-
-|          | Contact Me!                                         | 
-| ---------| ----------------------------------------------------| 
-| Name     | Kai                                                 | 
-| Website  | [https://liewshin.fly.dev](https://liewshin.fly.dev)|
-| LinkedIn | https://www.linkedin.com/in/kai-shin-liew/          |
-| Email    | [kaishin.14@gmail.com](mailto:kaishin.14@gmail.com) |
-
-## 😄 About me
-
 I enjoy trying out and learning new things - coding, sports, travelling \
 Currently working as a software engineer with a focus on React and React Native 
 
